@@ -27,6 +27,8 @@ You will also see any lint errors in the console.
 - Mapped items within div
 - Gradient/shadow effect on cards (which one?)
 - Layering effect (incrementing z-indexes with mapping?)
+- Scrollbar styles and effect on different divs at different break points.
 - Hover effect:
   - Cards to right shift right.
   - Hovered card rotates around the top-right corner?
+  - Media query sets rotate on not-first-children only at xl breakpoint.
