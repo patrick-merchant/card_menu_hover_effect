@@ -1,6 +1,6 @@
-# Frontend Effects:
+# Card Menu Hover Effect:
 
-A repo for recreating interesting frontend effects from the web.
+Recreating an interesting menu from https://css-tricks.com/.
 
 ## Running the development server:
 
@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## Effect 1 - Layered cards hover effect from css-tricks.com:
+## Layered cards hover effect from css-tricks.com:
 
 ![The unfocused card menu](./assets/card-menu.png "Card Menu")
 
