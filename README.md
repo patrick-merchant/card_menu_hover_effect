@@ -32,3 +32,9 @@ You will also see any lint errors in the console.
   - Cards to right shift right.
   - Hovered card rotates around the top-right corner?
   - Media query sets rotate on not-first-children only at xl breakpoint.
+
+### Recreated Card Menu:
+
+![Recreated unfocused card menu](./assets/recreated_card_menu.png "Recreated Card Menu")
+
+![Recreated card menu with a hovered card](./assets/recreated_hovered_card.png "Recreated Hovered Card")
